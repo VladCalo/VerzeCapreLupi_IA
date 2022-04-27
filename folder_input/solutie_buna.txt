@@ -1,0 +1,4 @@
+4 verze 2 capre 1 lupi
+2 2 5
+L: 0,1 C:1
+Stare finala: 1 verze 1 capre 1 lupi

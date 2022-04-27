@@ -1,0 +1,76 @@
+
+Euristica banala
+***********************
+Solutii obtinute cu A*:
+
+1)
+Pe malul de est se gasesc:
+Taranul 4 verze 2 capre 1 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+Barca pleaca de la est la vest cu container A: 1lupi, container B: 1verze
+
+2)
+Pe malul de est se gasesc:
+3 verze 2 capre 0 lupi
+Pe malul de vest se gasesc:
+Taranul 1 verze 0 capre 1 lupi, magazie: 0
+Dupa ce au mancat pe malul est: 1 verze 2 capre 0 lupi
+Barca pleaca de la vest la est cu container A: 0, container B: 0
+
+3)
+Pe malul de est se gasesc:
+Taranul 1 verze 2 capre 0 lupi
+Pe malul de vest se gasesc:
+1 verze 0 capre 1 lupi, magazie: 0
+Dupa ce au mancat pe malul vest: 1 verze 0 capre 1 lupi
+Barca pleaca de la est la vest cu container A: 1capre, container B: 0
+
+4)
+Pe malul de est se gasesc:
+1 verze 1 capre 0 lupi
+Pe malul de vest se gasesc:
+Taranul 1 verze 1 capre 1 lupi, magazie: 0
+
+
+
+----------------
+
+
+Euristica admisibila 1
+***********************
+Solutii obtinute cu A*:
+
+1)
+Pe malul de est se gasesc:
+Taranul 4 verze 2 capre 1 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+Barca pleaca de la est la vest cu container A: 1lupi, container B: 1verze
+
+2)
+Pe malul de est se gasesc:
+3 verze 2 capre 0 lupi
+Pe malul de vest se gasesc:
+Taranul 1 verze 0 capre 1 lupi, magazie: 0
+Dupa ce au mancat pe malul est: 1 verze 2 capre 0 lupi
+Barca pleaca de la vest la est cu container A: 0, container B: 0
+
+3)
+Pe malul de est se gasesc:
+Taranul 1 verze 2 capre 0 lupi
+Pe malul de vest se gasesc:
+1 verze 0 capre 1 lupi, magazie: 0
+Dupa ce au mancat pe malul vest: 1 verze 0 capre 1 lupi
+Barca pleaca de la est la vest cu container A: 1capre, container B: 0
+
+4)
+Pe malul de est se gasesc:
+1 verze 1 capre 0 lupi
+Pe malul de vest se gasesc:
+Taranul 1 verze 1 capre 1 lupi, magazie: 0
+
+
+
+----------------
+
