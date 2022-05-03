@@ -111,7 +111,6 @@ class Graph:  # graful problemei
         verzeFinal, capreFinal, lupiFinal = 0, 0, 0
         vcl_malFinal = [verzeFinal, capreFinal, lupiFinal]
 
-        # tupluri de forma [numar,tip elemente]
         nr_tip_magazie = [0, "gol"]
         nr_tip_compA = [0, "gol"]
         nr_tip_compB = [0, "gol"]

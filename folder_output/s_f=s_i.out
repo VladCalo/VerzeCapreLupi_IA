@@ -28,3 +28,153 @@ Pe malul de vest se gasesc:
 
 ----------------
 
+
+Euristica admisibila 2
+***********************
+Solutii obtinute cu A*:
+
+1)
+Pe malul de est se gasesc:
+Taranul 0 verze 0 capre 0 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+
+
+
+----------------
+
+
+Euristica neadmisibila
+***********************
+Solutii obtinute cu A*:
+
+1)
+Pe malul de est se gasesc:
+Taranul 0 verze 0 capre 0 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+
+
+
+----------------
+
+
+Euristica banala
+***********************
+Solutii obtinute cu UCS:
+
+1)
+Pe malul de est se gasesc:
+Taranul 0 verze 0 capre 0 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+
+
+
+----------------
+
+
+Euristica admisibila 1
+***********************
+Solutii obtinute cu UCS:
+
+1)
+Pe malul de est se gasesc:
+Taranul 0 verze 0 capre 0 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+
+
+
+----------------
+
+
+Euristica admisibila 2
+***********************
+Solutii obtinute cu UCS:
+
+1)
+Pe malul de est se gasesc:
+Taranul 0 verze 0 capre 0 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+
+
+
+----------------
+
+
+Euristica neadmisibila
+***********************
+Solutii obtinute cu UCS:
+
+1)
+Pe malul de est se gasesc:
+Taranul 0 verze 0 capre 0 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+
+
+
+----------------
+
+
+Euristica banala
+***********************
+Solutii obtinute cu A* optimizat:
+
+1)
+Pe malul de est se gasesc:
+Taranul 0 verze 0 capre 0 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+
+
+
+----------------
+
+
+Euristica admisibila 1
+***********************
+Solutii obtinute cu A* optimizat:
+
+1)
+Pe malul de est se gasesc:
+Taranul 0 verze 0 capre 0 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+
+
+
+----------------
+
+
+Euristica admisibila 2
+***********************
+Solutii obtinute cu A* optimizat:
+
+1)
+Pe malul de est se gasesc:
+Taranul 0 verze 0 capre 0 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+
+
+
+----------------
+
+
+Euristica neadmisibila
+***********************
+Solutii obtinute cu A* optimizat:
+
+1)
+Pe malul de est se gasesc:
+Taranul 0 verze 0 capre 0 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+
+
+
+----------------
+

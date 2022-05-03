@@ -18,3 +18,147 @@ Solutii obtinute cu A*:
 Timeout la A*
 
 
+
+Euristica admisibila 2
+***********************
+Solutii obtinute cu A*:
+
+
+
+Timeout la A*
+
+
+
+Euristica neadmisibila
+***********************
+Solutii obtinute cu A*:
+
+
+
+Timeout la A*
+
+
+
+Euristica banala
+***********************
+Solutii obtinute cu UCS:
+
+
+
+Timeout la UCS
+
+
+
+Euristica admisibila 1
+***********************
+Solutii obtinute cu UCS:
+
+
+
+Timeout la UCS
+
+
+
+Euristica admisibila 2
+***********************
+Solutii obtinute cu UCS:
+
+
+
+Timeout la UCS
+
+
+
+Euristica neadmisibila
+***********************
+Solutii obtinute cu UCS:
+
+
+
+Timeout la UCS
+
+
+
+Euristica banala
+***********************
+Solutii obtinute cu A* optimizat:
+
+
+
+Timeout la A* optimizat
+
+
+
+Euristica admisibila 1
+***********************
+Solutii obtinute cu A* optimizat:
+
+
+
+Timeout la A* optimizat
+
+
+
+Euristica admisibila 2
+***********************
+Solutii obtinute cu A* optimizat:
+
+
+
+Timeout la A* optimizat
+
+
+
+Euristica neadmisibila
+***********************
+Solutii obtinute cu A* optimizat:
+
+1)
+Pe malul de est se gasesc:
+Taranul 14 verze 7 capre 2 lupi
+Pe malul de vest se gasesc:
+0 verze 0 capre 0 lupi, magazie: 0
+Barca pleaca de la est la vest cu container A: 5capre, container B: 5verze
+
+2)
+Pe malul de est se gasesc:
+9 verze 2 capre 2 lupi
+Pe malul de vest se gasesc:
+Taranul 5 verze 5 capre 0 lupi, magazie: 0
+Dupa ce au mancat pe malul est: 7 verze 0 capre 2 lupi
+Barca pleaca de la vest la est cu container A: 0, container B: 0
+
+3)
+Pe malul de est se gasesc:
+Taranul 7 verze 0 capre 2 lupi
+Pe malul de vest se gasesc:
+0 verze 5 capre 0 lupi, magazie: 5verze
+Dupa ce au mancat pe malul vest: 0 verze 5 capre 0 lupi
+Barca pleaca de la est la vest cu container A: 7verze, container B: 0
+
+4)
+Pe malul de est se gasesc:
+0 verze 0 capre 2 lupi
+Pe malul de vest se gasesc:
+Taranul 7 verze 5 capre 0 lupi, magazie: 5verze
+Dupa ce au mancat pe malul est: 0 verze 0 capre 1 lupi
+Barca pleaca de la vest la est cu container A: 0, container B: 0
+
+5)
+Pe malul de est se gasesc:
+Taranul 0 verze 0 capre 1 lupi
+Pe malul de vest se gasesc:
+12 verze 5 capre 0 lupi, magazie: 0
+Dupa ce au mancat pe malul vest: 7 verze 5 capre 0 lupi
+Barca pleaca de la est la vest cu container A: 1lupi, container B: 0
+
+6)
+Pe malul de est se gasesc:
+0 verze 0 capre 0 lupi
+Pe malul de vest se gasesc:
+Taranul 7 verze 5 capre 1 lupi, magazie: 0
+
+
+
+----------------
+
