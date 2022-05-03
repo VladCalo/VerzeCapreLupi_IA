@@ -440,7 +440,6 @@ class Graph:  # graful problemei
 
         return listaSuccesori
 
-
 def citire_parametrii():
     def make_path_sane(p):
         """Function to uniformly return a real, absolute filesystem path."""
@@ -467,7 +466,6 @@ def citire_parametrii():
     timeout = float(args.timeout)
     return caleFolderInput, caleFolderOutput, nrSol, timeout
 
-
 def citeste_fisier(caleFisier):
     """
     N1 - cati lupi mananca un lup
@@ -492,7 +490,6 @@ def citeste_fisier(caleFisier):
         return "validarea inputului esuata"
 
     return N1, N2, N3, nr_compA, nr_compB, nr_magazie, stare_initiala, stare_finala
-
 
 @stopit.threading_timeoutable(default="intrat in timeout")
 def a_star(gr, nrSolutiiCautate, tip_euristica, writer):
@@ -530,7 +527,6 @@ def a_star(gr, nrSolutiiCautate, tip_euristica, writer):
                 else:
                     c.append(s)
 
-
 @stopit.threading_timeoutable(default="intrat in timeout")
 def uniform_cost(gr, nrSolutiiCautate, tip_euristica, writer):
     # in coada vom avea doar noduri de tip NodParcurgere (nodurile din arborele de parcurgere)
@@ -564,7 +560,6 @@ def uniform_cost(gr, nrSolutiiCautate, tip_euristica, writer):
                 c.insert(i, s)
             else:
                 c.append(s)
-
 
 @stopit.threading_timeoutable(default="intrat in timeout")
 def a_star_optimizat(gr, nrSolutiiCautate, tip_euristica, writer):
@@ -619,7 +614,6 @@ def a_star_optimizat(gr, nrSolutiiCautate, tip_euristica, writer):
                 l_open.insert(i, s)
             else:
                 l_open.append(s)
-
 
 if __name__ == "__main__":
     caleFolderInput, caleFolderOutput, nrSolutiiCautate, timeout = citire_parametrii()
